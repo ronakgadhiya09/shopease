@@ -31,7 +31,7 @@ A modern e-commerce website built with React, TypeScript, and Styled Components.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/shopease.git
+   git clone https://github.com/ronakgadhiya09/shopease.git
    cd shopease
    ```
 
@@ -91,4 +91,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Images from [Unsplash](https://unsplash.com/)
-- Icons from [React Icons](https://react-icons.github.io/react-icons/) 
+- Icons from [React Icons](https://react-icons.github.io/react-icons/)
+
+## Author
+
+- [Ronak Gadhiya](https://github.com/ronakgadhiya09) 
